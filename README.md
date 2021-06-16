@@ -5,6 +5,8 @@
 - 💬 Ask me about anything related to Javascript, React JS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bitakeyogesh/) | [Mail](yogeshbitake@gmail.com)
 
+[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=bitakeyogesh)](https://github.com/bitakeyogesh/github-readme-stats)
+
 ![mermaid-diagram-20210616233654](https://user-images.githubusercontent.com/26835951/122270260-c14b9000-cefb-11eb-95e3-b7a7fcea0282.png)
 
 
