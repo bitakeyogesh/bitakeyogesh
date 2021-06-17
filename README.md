@@ -29,13 +29,18 @@
 </p>
 
 ## ⚡ GitHub Stats
+
 <div>
    <div>
-      <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true&count_private=true&theme=dark" />
-      <img height="200px"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact&count_private=true&theme=dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true&count_private=true&theme=dark" />
+      <br>  <br>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact&count_private=true&theme=dark" />
    </div>
 
-
+   <br>
+<div>
+   
    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bitakeyogesh.bitakeyogesh)
-
+   
+</div>
 </div>
