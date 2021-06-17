@@ -25,6 +25,4 @@
 
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=bitakeyogesh)](https://github.com/bitakeyogesh/github-readme-stats)
 
-![mermaid-diagram-20210616233654](https://user-images.githubusercontent.com/26835951/122270260-c14b9000-cefb-11eb-95e3-b7a7fcea0282.png)
-
-
+![image](https://user-images.githubusercontent.com/26835951/122408813-47b9ad80-cfa0-11eb-8f2e-47c2b5641284.png)
