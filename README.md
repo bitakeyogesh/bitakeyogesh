@@ -32,9 +32,9 @@
 
 <div>
    <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true&count_private=true&theme=dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true&count_private=true&theme=graywhite " />
       <br>  <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact&count_private=true&theme=dark" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact&count_private=true&theme=graywhite " />
    </div>
 
    <br>
