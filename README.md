@@ -31,17 +31,10 @@
 
 ## ⚡ GitHub Stats
 
-<div>
-   <div>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true&count_private=true&theme=graywhite " />
-      <br>  <br>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact&count_private=true&theme=graywhite " />
-   </div>
+![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true)
 
-   <br>
-<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact)](https://github.com/bitakeyogesh/github-readme-stats)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bitakeyogesh.bitakeyogesh)
    
-   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bitakeyogesh.bitakeyogesh)
-   
-</div>
-</div>
