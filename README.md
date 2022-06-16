@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.linkedin.com/in/bitakeyogesh"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"></a>
 
-- :office: I am a software Enginner at PayPal, Working as a part of wallet team.
+- :office: I am a software Enginner at PayPal and working as a part of wallet team.
 - :construction: I’m currently working on [ Data Structures & Problem Solving using Javascript ](https://github.com/bitakeyogesh/javascript)
 - :books: I’m currently learning GraphQL, MongoDB and SSR
 - 💬 Ask me about anything related to Javascript, React JS
