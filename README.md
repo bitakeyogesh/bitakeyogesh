@@ -6,7 +6,7 @@
 - 💬 Ask me about anything related to Javascript, React JS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bitakeyogesh/) | [Mail](yogeshbitake@gmail.com)
 
-## 🚀💻 Technologies & Tools
+## 💻 Technologies & Tools
 
 <p> 
 
@@ -28,13 +28,4 @@
    <img alt="Postman" src="https://img.shields.io/badge/Postman-black.svg?logo=amazon-dynamodb&logoColor=white" />
   
 </p>
-
-## ⚡ GitHub Stats
-
-![Yogesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitakeyogesh&show_icons=true?)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitakeyogesh&layout=compact)](https://github.com/bitakeyogesh/github-readme-stats?)
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bitakeyogesh.bitakeyogesh)
    
