@@ -1,9 +1,15 @@
-### Hi there <a href="https://www.linkedin.com/in/bitakeyogesh"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"></a>
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
-- :office: I am a software Enginner at PayPal and working as a part of wallet team.
+### Hi there 👋
+
+- :office: I am Yogesh Bitake, Software Enginner at PayPal and working as a part of wallet team.
+
 - :construction: I’m currently working on [ Data Structures & Problem Solving using Javascript ](https://github.com/bitakeyogesh/javascript)
+
 - :books: I’m currently learning GraphQL, MongoDB and SSR
+
 - 💬 Ask me about anything related to Javascript, React JS
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bitakeyogesh/) | [Mail](yogeshbitake@gmail.com)
 
 ## 💻 Technologies & Tools
@@ -28,4 +34,3 @@
    <img alt="Postman" src="https://img.shields.io/badge/Postman-black.svg?logo=amazon-dynamodb&logoColor=white" />
   
 </p>
-   
