@@ -1,14 +1,6 @@
-<img align="right" src="https://github.com/bitakeyogesh/bitakeyogesh/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
-
 ### Hi there 👋
 
 - :office: I am Yogesh Bitake, Software Enginner at PayPal and working as a part of wallet team.
-
-- :construction: I’m currently working on [ Data Structures & Problem Solving using Javascript ](https://github.com/bitakeyogesh/javascript)
-
-- :books: I’m currently learning GraphQL, MongoDB and SSR
-
-- 💬 Ask me about anything related to Javascript, React JS
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/bitakeyogesh/) | [Mail](yogeshbitake@gmail.com)
 
